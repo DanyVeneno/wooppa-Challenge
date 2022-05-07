@@ -4,11 +4,12 @@ const port = 3000
 
 app.get('/',(req,res)=>{
 
-	res..send('I´m Here!!!')
+	res.send('Im Here!!!')
 
 })
-app.listen(port,(){
+app.listen(port,()=>{
 console.log(`App listening on port ${port}`)
 
 })
-app.listen(3000)
+//app.listen(3000)
+
