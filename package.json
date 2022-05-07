@@ -1,0 +1,19 @@
+{
+  "name": "wpach",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanyVeneno/wooppa-Challenge.git"
+  },
+  "author": "Daniel Vallejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanyVeneno/wooppa-Challenge/issues"
+  },
+  "homepage": "https://github.com/DanyVeneno/wooppa-Challenge#readme"
+}
